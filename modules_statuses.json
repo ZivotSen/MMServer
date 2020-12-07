@@ -1,0 +1,9 @@
+{
+    "Administration": true,
+    "Beneficiary": true,
+    "Commission": true,
+    "Funds": true,
+    "KYC": true,
+    "Promotion": true,
+    "Transaction": true
+}

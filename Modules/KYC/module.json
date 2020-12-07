@@ -1,0 +1,13 @@
+{
+    "name": "KYC",
+    "alias": "kyc",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\KYC\\Providers\\KYCServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
